@@ -1,12 +1,19 @@
-## Oiii eu sou a Castro!!
+**I'm Castro**  
+DEV & Bug Hunter
+<div>
+  <a href="https://github.com/pugn0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pugn0&layout=compact&langs_count=16&theme=dark"/>
+    <div>
+      <div style="display: inline_block"><br>
+        <img align="center" alt="Zac-Js" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=97&color=currentColor">
+        <img align="center" alt="Zac-Python" height="40" width="50" src="https://icongr.am/devicon/python-original.svg?size=97&color=currentColor">
+        <img align="center" alt="Zac-C++" height="40" width="50" src="https://icongr.am/devicon/cplusplus-original.svg?size=97&color=currentColor">
+        <img align="center" alt="Zac-Java" height="40" width="50" src="https://icongr.am/devicon/java-original.svg?size=97&color=currentColor">
+        <img align="center" alt="Zac-PHP" height="40" width="50" src="https://icongr.am/devicon/postgresql-original.svg?size=97&color=currentColor">
+     </div>
+      <hr>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Castro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Castro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Castro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Castro-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Castro-Sqlite" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg">
-</div>
+
  
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
